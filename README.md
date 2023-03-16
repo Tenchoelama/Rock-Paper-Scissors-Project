@@ -1,11 +1,6 @@
 # Rock-Paper-Scissors-Project
 
-We all came up with a very simple solution on our own within the first 20 minutes and then compared, we then split off for the weekend and each made our own unique addition to spice it up.
-
-Nathan added the ability for it to keep track of the computer and player scores, and informing you of whos winning
-Tenzin added the option to play Best of Games (Bo5, Bo7, Best of whatever number you want), and tracked whether you or the computer won the game.
-James helped adapt all the changes together and then added the multiplayer feature, allowing for you to add any number of extra bots that you get to name, accounting for ties and what not
-
-The project is mostly foolproof, I don't believe I left any opportunity for the code to break if the player inputs something other then what is asked.
-Everybody did their part in helping get the pieces together, and we all had our own additions!
-All you have to do is fire it up and read the text, choose the ways you want to play, and have a blast!
+#### -The code is a Python program for the game Rock, Paper, Scissors. 
+#### -The program allows the user to play against a computer or play a multiplayer version of the game. 
+#### -In the multiplayer version, the user can choose the number of opponents they want to play against and enter their names.
+#### -The game can also be played in a "Best of" format, where the first player to win a specified number of games wins the overall match.
